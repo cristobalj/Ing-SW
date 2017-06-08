@@ -9,7 +9,7 @@ World of warcraft
 
 World of warcraft y continentes
 -----------------------------------
-
+ss
 * Azeroth
 
 Azeroth es el planeta donde tienen lugar la mayoría de las aventuras. Está formado por tres continentes, los Reinos del Este, Kalimdor y Rasganorte; un continente sumergido bajo el mar, Vashj'ir, y un reino subterraneo, Infralar, situado debajo de la Vorágine, el remolino gigante que se formó justo en el centro del mar diez mil años antes de la Primera Guerra, cuando, para evitar la entrada de Sargeras en Azeroth, el primer Pozo de la Eternidad fue destruido, dividiendo el antiguo Kalimdor, que entonces era un vasto continente único, en los tres continentes actuales. También se encuentran diversas islas en medio del mar, cerca de la Vorágine, entre las que destaca Kezan, tierra natal de la facción goblin perteneciente a la Horda, y las Islas Perdidas, donde suceden los eventos que motivan la unión a la horda de esta facción goblin.
